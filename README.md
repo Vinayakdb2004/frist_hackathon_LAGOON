@@ -1,2 +1,3 @@
 # NAVIGATION FRAMEWORK FOR VISUALLY CHALLENGED!
-This is my presentation done at my first ever hackathon in a event named WAVE 2.0 @BEC 2024 with my buddies and fellow teammates Chinmayee (Chinmayee1221) and Suhas Sugalli 
+This holds the integration of CV and the python code for navigation system for the blind people and detect the distance of the obstacle that is infront of the user
+
